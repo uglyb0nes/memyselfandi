@@ -1,0 +1,23 @@
+.aboutme img {
+    max-height: 500px;
+    max-width: 500px;
+    margin: 25px; 
+}
+
+.aboutme {
+    text-align: center;
+}
+
+.mywork {
+    text-align: center;
+}
+.bg-image {
+    margin: 25px;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+}
+
+.mb-4 {
+    color: black;
+}
