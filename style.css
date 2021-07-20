@@ -1,3 +1,11 @@
+.nav-item {
+    font-family: 'Bona Nova', serif;
+}
+
+.mb-3 {
+    font-family: 'Bona Nova', serif;
+    font-style: italic;
+}
 .aboutme img {
     max-height: 500px;
     max-width: 500px;
@@ -6,11 +14,24 @@
 
 .aboutme {
     text-align: center;
+    font-family: 'Bona Nova', serif;
+    margin: 25px; 
+}
+
+.aboutme p {
+    font-size: x-large;
+}
+
+.col-4 p {
+    vertical-align: middle;
 }
 
 .mywork {
     text-align: center;
+    font-family: 'Bona Nova', serif;
+    margin-top: 50px;
 }
+
 .bg-image {
     margin: 25px;
     height: 200px;
@@ -19,5 +40,9 @@
 }
 
 .mb-4 {
-    color: black;
+    color: black; 
+}
+
+.text-center {
+    font-family: 'Bona Nova', serif; 
 }
