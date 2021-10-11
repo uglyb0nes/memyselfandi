@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Unlicense%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
-![Screenshot](https://github.com/uglyb0nes/memyselfandi/blob/master/images/portfolio.png)
+![Screenshot]
 
 ## Table of Contents:
 
